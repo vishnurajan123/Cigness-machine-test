@@ -1,0 +1,9 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    top: 0;
+}
+.navbar a{
+    font-size: 1.3rem;
+}
